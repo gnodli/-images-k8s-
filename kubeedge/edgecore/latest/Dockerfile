@@ -1,0 +1,1 @@
+FROM kubeedge/edgecore:latest
