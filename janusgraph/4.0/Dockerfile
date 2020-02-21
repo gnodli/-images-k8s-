@@ -1,1 +1,1 @@
-FROM janusgraph/janusgraph:4.0
+FROM janusgraph/janusgraph:0.4
